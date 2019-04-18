@@ -4,6 +4,7 @@ import Home from './views/Home.vue';
 
 Vue.use(Router);
 
+// TODO: Membuat halaman baru
 export default new Router({
   routes: [
     {
