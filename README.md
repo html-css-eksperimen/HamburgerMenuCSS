@@ -37,3 +37,7 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Referensi Kode
+Kode referensi dari [Codepen](https://codepen.io/bradtraversy/pen/vMGBjQ) .
