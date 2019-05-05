@@ -4,6 +4,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+
+![PreviewGambar](https://raw.githubusercontent.com/html-css-eksperimen/HamburgerMenuCSS/master/preview1.png)
+
+
 ## Deskripsi
 
 Hasil latihan membuat hamburger menu dengan CSS murni tanpa framework CSS tambahan. Contoh hamburger menu ini dikombinasikan dengan Vue JS sehingga bisa eksperimen untuk navigasi menu dan pembuatan web lebih lanjut.
