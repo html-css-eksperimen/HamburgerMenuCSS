@@ -1,6 +1,23 @@
-# menu-burger-vue
+# Hamburger Menu (VueJS)
 
-## Project setup
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+## Deskripsi
+
+Hasil latihan membuat hamburger menu dengan CSS murni tanpa framework CSS tambahan. Contoh hamburger menu ini dikombinasikan dengan Vue JS sehingga bisa eksperimen untuk navigasi menu dan pembuatan web lebih lanjut.
+
+Latihan ini juga hasil mengikuti video latihan dari Traversy Media tentang pembuatan **Pure CSS Hamburger Menu & Overlay** yang beralamatkan di [Video Traversy Media](https://www.youtube.com/watch?v=DZg6UfS5zYg) tersebut.
+
+Referensi untuk Codepen dari Traversy Media dapat dilihat di [Codepen](https://codepen.io/bradtraversy/pen/vMGBjQ) ini.
+
+
+> Demo aplikasi web sederhana ini dapat dilihat pada tautan link berikut ini : 
+> [Hamburger Menu Vue Demo](https://html-css-eksperimen.github.io/DemoHamburgerMenuVue/#/)
+
+
+## Project setup untuk Vue JS ini
 ```
 npm install
 ```
@@ -37,3 +54,4 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+

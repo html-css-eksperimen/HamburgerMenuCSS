@@ -76,3 +76,20 @@
 .menu-wrap .toggler:checked:hover + .hamburger > div {
     transform: rotate(225deg);
 }
+
+
+/* Tampilkan menu ketika di klik */
+.menu-wrap .toggler:checked ~ .menu {
+    visibility: visible;
+}
+
+
+.menu-wrap .toggler:checked ~ .menu > div {
+    transform: scale(1);
+    transition-duration: var(--menu-speed);
+}
+
+.menu-wrap .toggler:checked ~ .menu > div > div {
+    opacity: 1;
+    transition: opacity 0.4s ease 0.4s;
+}

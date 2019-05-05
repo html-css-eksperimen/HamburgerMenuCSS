@@ -3,7 +3,7 @@
 :root {
   --primary-color: rgba(190, 106, 21, 0.5);
   --secondary-color: rgba(120, 79, 37, 0.8);
-  --overlay-color: rgba(24, 39, 51, 0.85);
+  --overlay-color: rgba(90, 57, 33, 0.851);
   --menu-speed: 0.75s;
 }
 
@@ -75,4 +75,8 @@ body {
   opacity: 0.6;
 }
 
+/* Toggler checkbox CSS */
 @import url(./menu-sidebar.css);
+
+/* CSS untuk tampilan Isi menu */
+@import url(./menu-content.css);
